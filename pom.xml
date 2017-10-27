@@ -8,19 +8,15 @@
   <packaging>jar</packaging>
 
   <name>1</name>
-  <url><scm>
-															<connection>scm:git:git@github.com:fonix/1.git</connection>
-															<url>scm:git:git@github.com:fonix/1.git</url>
-															<developerConnection>scm:git:git@github.com:fonix/labo3.git</developerConnection>
-														</scm></url>
-
+  <url>http://maven.appache.org</url>
+<scm>
+															<connection>scm:git:git@github.com:FonixPat/labo3.git</connection>
+															<url>scm:git:git@github.com:FonixPat/1abo3.git</url>
+															<developerConnection>scm:git:git@github.com:FonixPat/labo3.git</developerConnection>
+														</scm>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	<scm>
-															<connection>scm:git:git@github.com:fonix/1.git</connection>
-															<url>scm:git:git@github.com:fonix/1.git</url>
-															<developerConnection>scm:git:git@github.com:fonix/labo3.git</developerConnection>
-														</scm>
+	
   </properties>
 
   <dependencies>
